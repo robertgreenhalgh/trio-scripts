@@ -1,0 +1,25 @@
+# Chromosome	Sequences
+Nlep_chromosome_01	-Nlep_tig00001445	+Nlep_tig00168558	+Nlep_tig00168560	-Nlep_tig00168570	-Nlep_tig00001781	+Nlep_tig0000CYP2	+Nlep_tig00001034	-Nlep_tig00002055	-Nlep_tig00000645	-Nlep_tig00000777	-Nlep_tig00000069	+Nlep_tig00001721
+Nlep_chromosome_02	+Nlep_tig00168526	-Nlep_tig00000331	+Nlep_tig00000790	+Nlep_tig00168567	-Nlep_tig00000273
+Nlep_chromosome_03	-Nlep_tig00000255	-Nlep_tig00000752	-Nlep_tig00000061	-Nlep_tig00001914
+Nlep_chromosome_04	-Nlep_tig00000001	-Nlep_tig00001139
+Nlep_chromosome_05	+Nlep_tig00000374	+Nlep_tig00000405	+Nlep_tig00001054	+Nlep_tig00000977
+Nlep_chromosome_06	-Nlep_tig00000518	-Nlep_tig00001831	+Nlep_tig00168521	+Nlep_tig00001901	-Nlep_tig00168512	-Nlep_tig00001845
+Nlep_chromosome_07	+Nlep_tig00000542	+Nlep_tig00000153	+Nlep_tig00001715	-Nlep_tig00001639
+Nlep_chromosome_08	-Nlep_tig00001234	+Nlep_tig00001868	+Nlep_tig00168541	+Nlep_tig00168543	-Nlep_tig00000829	+Nlep_tig00000167
+Nlep_chromosome_09	+Nlep_tig00418797	+Nlep_tig00001463	+Nlep_tig00168494	+Nlep_tig00168498	-Nlep_tig00000132
+Nlep_chromosome_10	-Nlep_tig00000119	+Nlep_tig00000917
+Nlep_chromosome_11	-Nlep_tig00000196	-Nlep_tig00000799
+Nlep_chromosome_12	-Nlep_tig00000094
+Nlep_chromosome_13	+Nlep_tig00000215
+Nlep_chromosome_14	+Nlep_tig00000079	+Nlep_tig00168499	+Nlep_tig00168501	-Nlep_tig00001677
+Nlep_chromosome_15	+Nlep_tig00000312	+Nlep_tig00168540
+Nlep_chromosome_16	-Nlep_tig00001352	-Nlep_tig00000278
+Nlep_chromosome_17	-Nlep_tig00001701	-Nlep_tig00001080	-Nlep_tig00000903	-Nlep_tig00001212	-Nlep_tig00001099
+Nlep_chromosome_18	-Nlep_tig00000655	-Nlep_tig00168545
+Nlep_chromosome_19	-Nlep_tig00000120
+Nlep_chromosome_20	+Nlep_tig00000509	+Nlep_tig00000910	-Nlep_tig00001151
+Nlep_chromosome_21	+Nlep_tig00001918	-Nlep_tig00419279	-Nlep_tig00168535	-Nlep_tig00168533	-Nlep_tig00000826	-Nlep_tig00001307
+Nlep_chromosome_22	+Nlep_tig00001177	-Nlep_tig00168551	-Nlep_tig00001333	-Nlep_tig00000694
+Nlep_chromosome_23	+Nlep_tig00000676	+Nlep_tig00168552	+Nlep_tig00168554	+Nlep_tig00168563	-Nlep_tig00168571	-Nlep_tig00001885
+Nlep_chromosome_X	+Nlep_tig00000960	-Nlep_tig00000726	-Nlep_tig00001744	-Nlep_tig00418801	+Nlep_tig00168555	+Nlep_tig00001597	-Nlep_tig00001219	-Nlep_tig00418796	+Nlep_tig00000765	+Nlep_tig00169036	+Nlep_tig00168523	-Nlep_tig00418805	+Nlep_tig00001290	-Nlep_tig00169034	+Nlep_tig00001122	-Nlep_tig00169030	-Nlep_tig00169025

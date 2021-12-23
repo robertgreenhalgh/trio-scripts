@@ -1,0 +1,25 @@
+# Chromosome	Sequences
+Nbry_chromosome_01	+Nbry_tig00000890	-Nbry_tig00136238	+Nbry_tig00000726	+Nbry_tig00001382	+Nbry_tig00001371	-Nbry_tig00000015	-Nbry_tig00136208	-Nbry_tig00136204
+Nbry_chromosome_02	+Nbry_tig00001176	-Nbry_tig00000930	-Nbry_tig00000640	+Nbry_tig00000020
+Nbry_chromosome_03	-Nbry_tig00000155	-Nbry_tig00000118	-Nbry_tig00000356
+Nbry_chromosome_04	-Nbry_tig00000003
+Nbry_chromosome_05	-Nbry_tig00351052	-Nbry_tig00001224	-Nbry_tig00000124	-Nbry_tig00000632
+Nbry_chromosome_06	-Nbry_tig00351055	-Nbry_tig00001251	+Nbry_tig00000657	+Nbry_tig00000826	-Nbry_tig00001006	+Nbry_tig00000172	+Nbry_tig00001237	-Nbry_tig00001109
+Nbry_chromosome_07	+Nbry_tig00000381	+Nbry_tig00136224	-Nbry_tig00000232	+Nbry_tig00001101
+Nbry_chromosome_08	-Nbry_tig00000294	+Nbry_tig00136211	+Nbry_tig00351067	+Nbry_tig00136222
+Nbry_chromosome_09	-Nbry_tig00000453	+Nbry_tig00000909	+Nbry_tig00000885	-Nbry_tig00000108
+Nbry_chromosome_10	+Nbry_tig00000086	-Nbry_tig00136242
+Nbry_chromosome_11	-Nbry_tig00000362	+Nbry_tig00000296	-Nbry_tig00000537
+Nbry_chromosome_12	+Nbry_tig00000297	-Nbry_tig00000221
+Nbry_chromosome_13	+Nbry_tig00001360	-Nbry_tig00000143
+Nbry_chromosome_14	-Nbry_tig00000614	-Nbry_tig00000951	-Nbry_tig00136216	-Nbry_tig00136212	-Nbry_tig00001083
+Nbry_chromosome_15	+Nbry_tig00000469	+Nbry_tig00000192
+Nbry_chromosome_16	-Nbry_tig00351063	-Nbry_tig00136217	-Nbry_tig00351057
+Nbry_chromosome_17	-Nbry_tig00136704	-Nbry_tig00136196	+Nbry_tig00351496	-Nbry_tig00000916	-Nbry_tig00000887
+Nbry_chromosome_18	-Nbry_tig00000288	-Nbry_tig00351062
+Nbry_chromosome_19	+Nbry_tig00000072
+Nbry_chromosome_20	-Nbry_tig00000241	-Nbry_tig00000715	+Nbry_tig00000785
+Nbry_chromosome_21	+Nbry_tig00000426	+Nbry_tig00000257
+Nbry_chromosome_22	+Nbry_tig00351498	+Nbry_tig00136287	+Nbry_tig00136248	-Nbry_tig00000317
+Nbry_chromosome_23	+Nbry_tig00000434	-Nbry_tig00136285	+Nbry_tig00001236	-Nbry_tig00001049	+Nbry_tig00136268	-Nbry_tig00001293	+Nbry_tig00001275
+Nbry_chromosome_X	-Nbry_tig00000565	+Nbry_tig00136225	+Nbry_tig00136262	-Nbry_tig00136245	-Nbry_tig00136272	-Nbry_tig00136291	+Nbry_tig00001074	+Nbry_tig00000970	-Nbry_tig00136278	+Nbry_tig00136241	-Nbry_tig00351066	-Nbry_tig00136258	-Nbry_tig00136257	-Nbry_tig00000973	-Nbry_tig00000941	-Nbry_tig00001368	+Nbry_tig00136233	-Nbry_tig00000971	-Nbry_tig00001262	+Nbry_tig00136267	+Nbry_tig00001325	+Nbry_tig00351502	+Nbry_tig00001241

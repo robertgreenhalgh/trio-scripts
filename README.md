@@ -31,3 +31,16 @@ blastp -db GFF3/Combined.Protein.fasta -query Neotoma_bryanti.BRAKER.IPR.Protein
 GFF3/annotate_gff3.py Neotoma_bryanti.BRAKER.IPR.gff3 Neotoma_bryanti.BRAKER.IPR.Protein.fasta Neotoma_bryanti.BRAKER.Protein.No_Stops.fasta.tsv GFF3/Combined.Descriptions.txt Neotoma_bryanti.BRAKER.IPR.Protein.outfmt6 NBRY > Neotoma_bryanti.Contigs.gff3
 ```
 
+## Scaffolding commands
+These scripts were used to generate the chromosome scaffold FASTAs and transform the GFF3 coordinates to match.
+
+#### Generate a FASTA containing all contigs for Nbry_chromosome_1 and merge that into a single sequence with 500 N characters separating each contig ("\*" denotes a contig in reverse orientation).
+```
+Scaffolding/extract_and_orient_sequences.py Neotoma_bryanti.Contigs.fasta "Nbry_tig00000890" "*Nbry_tig00136238" "Nbry_tig00000726" "Nbry_tig00001382" "Nbry_tig00001371" "*Nbry_tig00000015" "*Nbry_tig00136208" "*Nbry_tig00136204" > Neotoma_bryanti.Contigs.chromosome_1.fasta
+Scaffolding/multi-fasta_joiner.py Neotoma_bryanti.Contigs.chromosome_1.fasta Nbry_chromosome_1 500 > Neotoma_bryanti.chromosome_1.fasta
+```
+
+#### Transform the <i>Neotoma bryanti</i> contig GFF3 to match the chromosome coordinates.
+```
+Scaffolding/sequences_to_chromosomes.py 500 Scaffolding/Maps/Neotoma_bryanti.txt Neotoma_bryanti.Contigs.fasta Neotoma_bryanti.Contigs.gff3 > Neotoma_bryanti.Chromosomes.gff3
+```

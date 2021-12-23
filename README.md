@@ -1,7 +1,7 @@
 # trio-scripts
 A repository of scripts associated with the <i>Neotoma</i> trio binning project.
 
-## GFF3 generation commands
+## GFF3 commands
 These scripts were used to reformat the BRAKER GFF3 and assign gene names.
 
 #### Add a header and correct formatting issues with the BRAKER GFF3:
@@ -43,4 +43,24 @@ Scaffolding/multi-fasta_joiner.py Neotoma_bryanti.Contigs.chromosome_1.fasta Nbr
 #### Transform the <i>Neotoma bryanti</i> contig GFF3 to match the chromosome coordinates.
 ```
 Scaffolding/sequences_to_chromosomes.py 500 Scaffolding/Maps/Neotoma_bryanti.txt Neotoma_bryanti.Contigs.fasta Neotoma_bryanti.Contigs.gff3 > Neotoma_bryanti.Chromosomes.gff3
+```
+
+## MUMmer commands
+These scripts were used to generate SNP and indel metrics based on MUMmer alignents.
+
+#### Align the <i>Neotoma</i> mitochondrial sequences against each other
+```
+nucmer --prefix N_lepida_vs_N_bryanti.Mitochondrion Neotoma_bryanti.Mitochondrion.fasta Neotoma_lepida.Mitochondrion.fasta
+delta-filter -r -q N_lepida_vs_N_bryanti.delta > N_lepida_vs_N_bryanti.Mitochondrion.filter
+show-snps -Clr N_lepida_vs_N_bryanti.Mitochondrion.filter > N_lepida_vs_N_bryanti.Mitochondrion.Repeats.snps
+```
+
+#### Determine the amount of sequence aligned
+```
+MUMmer/mummer_alignment_length.py N_lepida_vs_N_bryanti.Mitochondrion.filter
+```
+
+#### Tally the number of SNPs and indels
+```
+MUMmer/mummer_snp_indel_counter.py N_lepida_vs_N_bryanti.Mitochondrion.Repeats.snps
 ```
